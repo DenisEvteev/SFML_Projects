@@ -1,0 +1,5 @@
+/home/denis/CLionProjects/clion-2019.1.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/denis/CLionProjects/SnakeGame
+-- Found SFML 2.5.1 in /home/denis/CLionProjects/SFML-2.5.1/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/denis/CLionProjects/SnakeGame/cmake-build-debug
